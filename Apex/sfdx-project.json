@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "Apex",
+  "name": "APEX",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "55.0"
